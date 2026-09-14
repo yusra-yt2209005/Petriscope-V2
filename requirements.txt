@@ -1,0 +1,5 @@
+ultralytics>=8.3.0        # includes YOLO11 and YOLO26 architectures
+sahi>=0.11.20             # tiled slicing-aided inference + merge
+opencv-python-headless
+numpy
+pandas                    # for the count-export CSV in infer_sahi.py
